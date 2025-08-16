@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "app.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt.secret'"
+  },
+  {
+    "name": "app.jwt.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt.prefix'"
+  },
+  {
+    "name": "app.jwt.header",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt.header'"
+  },
+  {
+    "name": "app.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt.expiration'"
+  },
+  {
+    "name": "app.websocket.allowed-origins",
+    "type": "java.lang.String",
+    "description": "A description for 'app.websocket.allowed-origins'"
+  },
+{
+    "name": "app.websocket.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'app.websocket.endpoint'"
+  }
+]}
